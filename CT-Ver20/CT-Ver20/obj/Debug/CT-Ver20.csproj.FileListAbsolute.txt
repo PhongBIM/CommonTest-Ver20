@@ -1,1 +1,9 @@
 E:\PHONG\GITHUB PROJECT\CommonTest-Ver20\CT-Ver20\CT-Ver20\bin\Debug\CT-Ver20.exe.config
+E:\PHONG\GITHUB PROJECT\CommonTest-Ver20\CT-Ver20\CT-Ver20\bin\Debug\CT-Ver20.exe
+E:\PHONG\GITHUB PROJECT\CommonTest-Ver20\CT-Ver20\CT-Ver20\bin\Debug\CT-Ver20.pdb
+E:\PHONG\GITHUB PROJECT\CommonTest-Ver20\CT-Ver20\CT-Ver20\obj\Debug\CT-Ver20.csprojResolveAssemblyReference.cache
+E:\PHONG\GITHUB PROJECT\CommonTest-Ver20\CT-Ver20\CT-Ver20\obj\Debug\CT_Ver20.Form1.resources
+E:\PHONG\GITHUB PROJECT\CommonTest-Ver20\CT-Ver20\CT-Ver20\obj\Debug\CT_Ver20.Properties.Resources.resources
+E:\PHONG\GITHUB PROJECT\CommonTest-Ver20\CT-Ver20\CT-Ver20\obj\Debug\CT-Ver20.csproj.GenerateResource.Cache
+E:\PHONG\GITHUB PROJECT\CommonTest-Ver20\CT-Ver20\CT-Ver20\obj\Debug\CT-Ver20.exe
+E:\PHONG\GITHUB PROJECT\CommonTest-Ver20\CT-Ver20\CT-Ver20\obj\Debug\CT-Ver20.pdb
