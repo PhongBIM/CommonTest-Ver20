@@ -7,3 +7,15 @@ E:\PHONG\GITHUB PROJECT\CommonTest-Ver20\CT-Ver20\CT-Ver20\obj\Debug\CT_Ver20.Pr
 E:\PHONG\GITHUB PROJECT\CommonTest-Ver20\CT-Ver20\CT-Ver20\obj\Debug\CT-Ver20.csproj.GenerateResource.Cache
 E:\PHONG\GITHUB PROJECT\CommonTest-Ver20\CT-Ver20\CT-Ver20\obj\Debug\CT-Ver20.exe
 E:\PHONG\GITHUB PROJECT\CommonTest-Ver20\CT-Ver20\CT-Ver20\obj\Debug\CT-Ver20.pdb
+E:\HOABINH\GITHUB GROUP\CommonTest-Ver2.0\CommonTest-Ver20\CT-Ver20\CT-Ver20\bin\Debug\CT-Ver20.exe.config
+E:\HOABINH\GITHUB GROUP\CommonTest-Ver2.0\CommonTest-Ver20\CT-Ver20\CT-Ver20\obj\Debug\CT-Ver20.exe
+E:\HOABINH\GITHUB GROUP\CommonTest-Ver2.0\CommonTest-Ver20\CT-Ver20\CT-Ver20\obj\Debug\CT-Ver20.pdb
+E:\HOABINH\GITHUB GROUP\CommonTest-Ver2.0\CommonTest-Ver20\CT-Ver20\CT-Ver20\bin\Debug\CT-Ver20.exe
+E:\HOABINH\GITHUB GROUP\CommonTest-Ver2.0\CommonTest-Ver20\CT-Ver20\CT-Ver20\bin\Debug\CT-Ver20.pdb
+E:\HOABINH\GITHUB GROUP\CommonTest-Ver2.0\CommonTest-Ver20\CT-Ver20\CT-Ver20\obj\Debug\CT-Ver20.csprojResolveAssemblyReference.cache
+E:\HOABINH\GITHUB GROUP\CommonTest-Ver2.0\CommonTest-Ver20\CT-Ver20\CT-Ver20\obj\Debug\CT_Ver20.Form1.resources
+E:\HOABINH\GITHUB GROUP\CommonTest-Ver2.0\CommonTest-Ver20\CT-Ver20\CT-Ver20\obj\Debug\CT_Ver20.Properties.Resources.resources
+E:\HOABINH\GITHUB GROUP\CommonTest-Ver2.0\CommonTest-Ver20\CT-Ver20\CT-Ver20\obj\Debug\CT-Ver20.csproj.GenerateResource.Cache
+E:\HOABINH\GITHUB GROUP\CommonTest-Ver2.0\CommonTest-Ver20\CT-Ver20\CT-Ver20\obj\Debug\CT_Ver20.Floor.resources
+E:\HOABINH\GITHUB GROUP\CommonTest-Ver2.0\CommonTest-Ver20\CT-Ver20\CT-Ver20\obj\Debug\CT_Ver20.Column.resources
+E:\HOABINH\GITHUB GROUP\CommonTest-Ver2.0\CommonTest-Ver20\CT-Ver20\CT-Ver20\obj\Debug\CT_Ver20.Partition.resources

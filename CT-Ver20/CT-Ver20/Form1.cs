@@ -16,5 +16,23 @@ namespace CT_Ver20
         {
             InitializeComponent();
         }
+
+        private void floorToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Floor fl = new Floor();
+            fl.Show();
+        }
+
+        private void partitionToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Partition pt = new Partition();
+            pt.Show();
+        }
+
+        private void columnToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Column cl = new Column();
+            cl.Show();
+        }
     }
 }

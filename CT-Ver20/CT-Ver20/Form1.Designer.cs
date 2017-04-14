@@ -70,31 +70,31 @@
             // logoutToolStripMenuItem
             // 
             this.logoutToolStripMenuItem.Name = "logoutToolStripMenuItem";
-            this.logoutToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.logoutToolStripMenuItem.Size = new System.Drawing.Size(123, 22);
             this.logoutToolStripMenuItem.Text = "Save ";
             // 
             // saveAsToolStripMenuItem
             // 
             this.saveAsToolStripMenuItem.Name = "saveAsToolStripMenuItem";
-            this.saveAsToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.saveAsToolStripMenuItem.Size = new System.Drawing.Size(123, 22);
             this.saveAsToolStripMenuItem.Text = "Save As...";
             // 
             // optionsToolStripMenuItem
             // 
             this.optionsToolStripMenuItem.Name = "optionsToolStripMenuItem";
-            this.optionsToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.optionsToolStripMenuItem.Size = new System.Drawing.Size(123, 22);
             this.optionsToolStripMenuItem.Text = "Options";
             // 
             // logoutToolStripMenuItem1
             // 
             this.logoutToolStripMenuItem1.Name = "logoutToolStripMenuItem1";
-            this.logoutToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
+            this.logoutToolStripMenuItem1.Size = new System.Drawing.Size(123, 22);
             this.logoutToolStripMenuItem1.Text = "Logout";
             // 
             // exitToolStripMenuItem
             // 
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(123, 22);
             this.exitToolStripMenuItem.Text = "Exit";
             // 
             // structualToolStripMenuItem
@@ -112,18 +112,21 @@
             this.floorToolStripMenuItem.Name = "floorToolStripMenuItem";
             this.floorToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.floorToolStripMenuItem.Text = "Floor";
+            this.floorToolStripMenuItem.Click += new System.EventHandler(this.floorToolStripMenuItem_Click);
             // 
             // partitionToolStripMenuItem
             // 
             this.partitionToolStripMenuItem.Name = "partitionToolStripMenuItem";
             this.partitionToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.partitionToolStripMenuItem.Text = "Partition";
+            this.partitionToolStripMenuItem.Click += new System.EventHandler(this.partitionToolStripMenuItem_Click);
             // 
             // columnToolStripMenuItem
             // 
             this.columnToolStripMenuItem.Name = "columnToolStripMenuItem";
             this.columnToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.columnToolStripMenuItem.Text = "Column ";
+            this.columnToolStripMenuItem.Click += new System.EventHandler(this.columnToolStripMenuItem_Click);
             // 
             // architectToolStripMenuItem
             // 
